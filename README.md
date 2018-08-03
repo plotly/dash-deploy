@@ -9,3 +9,9 @@ The command for any dash app to have the deploy helper in its root is:
 And every time the developer wants to get the latest version of the script locally, they would do:
 
 `git submodule update --remote`
+
+In order to deploy a Dash App using this helper, in the root of your app's folder, do:
+
+`python dash-deploy/deploy.py` 
+
+Then simply follow the instructions.
