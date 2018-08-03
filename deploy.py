@@ -2,7 +2,7 @@ from config import *
 
 from subprocess import call
 
-# https://stackoverflow.com/questions/287871/print-in-terminal-with-colors
+# Source: https://stackoverflow.com/questions/287871/print-in-terminal-with-colors
 class bcolors:
     HEADER = '\033[95m'
     OKBLUE = '\033[94m'
